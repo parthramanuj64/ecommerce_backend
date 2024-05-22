@@ -20,8 +20,8 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/ecommerce-dashboard-backend.git
-   cd ecommerce-dashboard-backend
+   https://github.com/parthramanuj64/ecommerce_backend.git
+   cd ecommerce_backend
    ```
 
 2. **Install dependencies:**
